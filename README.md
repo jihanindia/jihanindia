@@ -15,7 +15,7 @@
 <table>
 <tr>
 <td width="150">
-<img src="assets/kawaichar.jpg" width="140" alt="avatar"/>
+<img src="assets/chart2.jpg" width="140" alt="avatar"/>
 </td>
 <td>
 <a href="https://git.io/typing-svg">
