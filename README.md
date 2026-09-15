@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner - ganti dengan gambar banner kamu sendiri -->
-<img src="assets/wp.jpg" width="100%" alt="banner"/>
+<img src="assets/jjjj.jpg" width="100%" alt="banner"/>
 
 <br/>
 
