@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner - ganti dengan gambar banner kamu sendiri -->
-<img src="https://www.pexels.com/id-id/foto/lanskap-seni-digital-abstrak-biru-untuk-desktop-29586678/" width="100%" alt="banner"/>
+<img src="https://images.pexels.com/photos/29586678/pexels-photo-29586678.jpeg" width="100%" alt="banner"/>
 
 <br/>
 
