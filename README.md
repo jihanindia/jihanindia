@@ -19,7 +19,7 @@
 </td>
 <td>
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E91E63&center=true&vCenter=true&width=440&lines=Hello+World...;System+online+-+welcome_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E91E63&center=true&vCenter=true&width=440&lines=Hello+World..." alt="Typing SVG" />
 </a>
 </td>
 </tr>
@@ -57,20 +57,15 @@ Hello, I'm Jihan 👋  an Information Systems graduate from Universitas Binaniag
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jihanindia&theme=react-dark&hide_border=true" width="95%"/>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jihanindia&theme=react-dark&hide_border=true" width="95%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jihanindia&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jihanindia&theme=dark&hide_border=true" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jihanindia&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/> <img src="https://streak-stats.demolab.com/?user=jihanindia&theme=dark&hide_border=true" width="38%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihanindia&layout=compact&theme=dark&hide_border=true" width="45%"/>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihanindia&layout=compact&theme=dark&hide_border=true" width="45%"/> </div
 
 ---
 
