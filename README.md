@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner - ganti dengan gambar banner kamu sendiri -->
-<img src="https://images.pexels.com/photos/29586678/pexels-photo-29586678.jpeg" width="100%" height="50%" alt="banner"/>
+<img src="assets/wp.jpg" width="100%" alt="banner"/>
 
 <br/>
 
@@ -15,7 +15,7 @@
 <table>
 <tr>
 <td width="150">
-<img src="https://drive.google.com/file/d/1iBpf2x7sTy3d3ldyWbZGrm2QIKrsk2v6/view?usp=sharing" width="140" alt="avatar"/>
+<img src="assets/kawaichar.jpg" width="140" alt="avatar"/>
 </td>
 <td>
 <a href="https://git.io/typing-svg">
