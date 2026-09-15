@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner - ganti dengan gambar banner kamu sendiri -->
-<img src="https://images.pexels.com/photos/29586678/pexels-photo-29586678.jpeg" width="100%" alt="banner"/>
+<img src="https://images.pexels.com/photos/29586678/pexels-photo-29586678.jpeg" width="100%" height="50%" alt="banner"/>
 
 <br/>
 
@@ -29,7 +29,7 @@
 
 ## 👤 About Me
 
-Hello, I'm Jihan 👋 — an Information Systems graduate from Universitas Binaniaga Indonesia. I have hands-on experience in system and data analysis through various academic projects and an internship. I'm enjoy working with data and turning it into useful information. My strengths are analytical thinking, attention to detail, and programming, and I'm used to working both independently and as part of a team. 🙂
+Hello, I'm Jihan 👋  an Information Systems graduate from Universitas Binaniaga Indonesia. I have hands-on experience in system and data analysis through various academic projects and an internship. I'm enjoy working with data and turning it into useful information. My strengths are analytical thinking, attention to detail, and programming, and I'm used to working both independently and as part of a team. 🙂
 
 ---
 
