@@ -58,6 +58,9 @@ Hello, I'm Jihan 👋  an Information Systems graduate from Universitas Binaniag
 
 <div align="center">
 
+📍 Bogor, Indonesia · ✉️ (mail to:zuyizujihan208@gmail.com) · 🌐 ((https://jihanindia.github.io/jihan_portofolio/))
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jihan-anindia-maharani-466bab369)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zuyizujihan208@gmail.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jihanindia.github.io/jihan_portofolio/)
 
