@@ -7,7 +7,7 @@
 
 # Jihan Anindia Maharani
 
-**Data Analyst** · **Machine Learning**
+**Data Analyst** · **Machine Learning** · **IT Business Analyst** 
 
 <br/>
 
@@ -19,7 +19,7 @@
 </td>
 <td>
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E91E63&center=true&vCenter=true&width=440&lines=Hello+World..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=E91E63&center=true&vCenter=true&width=440&lines=Hello+World..." alt="Typing SVG" />
 </a>
 </td>
 </tr>
