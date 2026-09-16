@@ -7,7 +7,7 @@
 
 # Jihan Anindia Maharani
 
-**Data Analyst** · **Machine Learning** · **IT Business Analyst** 
+**Data & Machine Learning Enthusiast** | **IT Enthusiast** 
 
 <br/>
 
