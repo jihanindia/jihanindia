@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner - ganti dengan gambar banner kamu sendiri -->
-<img src="assets/Welcome.png" width="100%" alt="banner"/>
+<img src="assets/3.png" width="100%" alt="banner"/>
 
 <br/>
 
