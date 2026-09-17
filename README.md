@@ -19,7 +19,7 @@
 </td>
 <td>
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=E91E63&center=true&vCenter=true&width=440&lines=Hello+a..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=E91E63&center=true&vCenter=true&width=440&lines=Hello+..." alt="Typing SVG" />
 </a>
 </td>
 </tr>
