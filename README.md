@@ -19,7 +19,7 @@
 </td>
 <td>
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=E91E63&center=true&vCenter=true&width=440&lines=Hello+World..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=E91E63&center=true&vCenter=true&width=440&lines=Hello+a..." alt="Typing SVG" />
 </a>
 </td>
 </tr>
@@ -29,7 +29,7 @@
 
 ## 👤 About Me
 
-Hello, I'm Jihan 👋  an Information Systems graduate from Universitas Binaniaga Indonesia. I have hands-on experience in system and data analysis through various academic projects and an internship. I'm enjoy working with data and turning it into useful information. My strengths are analytical thinking, attention to detail, and programming, and I'm used to working both independently and as part of a team. 🙂
+Hello, I'm Jihan 👋  an Information Systems graduate from Universitas Binaniaga Indonesia. I have hands-on experience in system and data analysis through various academic projects and an internship. I'm enjoy working with data and turning it into useful information. My strengths are programming, strong analytical thinking, attention to detail, and I'm used to working both independently and as part of a team. 🙂
 
 ---
 
